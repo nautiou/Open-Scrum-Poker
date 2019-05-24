@@ -1,21 +1,21 @@
 # open_scrum_poker
 
-A new Flutter project.
+A simple scrum poker
+--------------------
+- Tap for open menu of the choice
+- Press for discover choice
+
+![](https://github.com/nautiou/open_scrum_poker/blob/master/images/home_press.png)
+![](https://github.com/nautiou/open_scrum_poker/blob/master/images/choice.PNG)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+- git clone https://github.com/nautiou/open_scrum_poker.git
+- cd open_scrum_poker
+- flutter create .
+- flutter run
 
 ### Build
 
- [Android](https://github.com/nautiou/Open-Scrum-Poker/blob/master/build/app/outputs/apk)
+ [Android](https://github.com/nautiou/open_scrum_poker/blob/master/build/app/outputs/apk/release/app-release.apk)
 
