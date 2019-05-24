@@ -1,4 +1,4 @@
-# open_scrum_poker
+# Open Scrum Poker
 
 A simple scrum poker
 --------------------
