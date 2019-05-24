@@ -1,0 +1,10 @@
+*
+!open_scrum_poker.iml
+!README.md
+!pubspec
+!.gitignore
+!lib/*
+!android/app/src/main/profile/*
+!android/app/src/main/res/*
+!android/app/build.gradle
+!build/app/outputs/apk/*
